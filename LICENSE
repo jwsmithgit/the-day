@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 GNU GENERAL PUBLIC LICENSE
                        Version 2, June 1991
 
@@ -338,3 +339,6 @@ consider it more useful to permit linking proprietary applications with the
 library.  If this is what you want to do, use the GNU Lesser General
 Public License instead of this License.
 
+=======
+Copyright 2014 Jacob Smith
+>>>>>>> e4f6a1509593e3591f6128b3a39a169d0d3e2b73
